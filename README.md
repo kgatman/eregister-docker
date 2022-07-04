@@ -6,4 +6,4 @@ New eRegister infrastructure taking of new CDC (change data capture) mechanisms 
 
 _a more detailed diagram to follow_
 
-![eregister-docker diagram](../pics/eregister-docker.png )
+![eregister-docker diagram](pics/eregister-docker.png )
