@@ -1,2 +1,9 @@
-# eregister-docker
-new eregister infrastructure taking of new cdc mechanisms with new lab module and FHIR at facility level
+# eRegister Docker
+
+New eRegister infrastructure taking of new CDC (change data capture) mechanisms with new lab module and leveraring FHIR at facility level
+
+#### New Infrastructure
+
+_a more detailed diagram to follow_
+
+![eregister-docker diagram](../pics/eregister-docker.png )
