@@ -49,6 +49,8 @@ services:
 
   #kafka:
 
+  #hapi-fhir:
+
 networks:
   hmis_network:
     ipam:
