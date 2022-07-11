@@ -44,12 +44,16 @@ services:
         ipv4_address: 172.27.0.2
 
   #lab-service:
+    #service for hosting openElis
 
   #debezium:
+    #service for hosting Debezium connectors for PostgreSQL and MySQL
 
   #kafka:
+    #service for hosting hosting the data streaming component
 
   #hapi-fhir:
+    #service for hosting HAPI-FHIR server 
 
 networks:
   hmis_network:
